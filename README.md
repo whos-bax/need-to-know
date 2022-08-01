@@ -22,3 +22,4 @@
 - [브라우저는 어떻게 동작하는가?](https://whothatsme.tistory.com/23)
 - [Webpack, Babel 이 뭐야? (feat. Framework, Library)](https://whothatsme.tistory.com/14?category=940508)
 - [호이스팅(Hoisting)이 뭐야?](https://whothatsme.tistory.com/24)
+- [클로저(Closure)가 뭐야?](https://whothatsme.tistory.com/25)
