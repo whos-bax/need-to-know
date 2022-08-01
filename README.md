@@ -24,4 +24,5 @@
 - [호이스팅(Hoisting)이 뭐야?](https://whothatsme.tistory.com/24)
 - [클로저(Closure)가 뭐야?](https://whothatsme.tistory.com/25)
 
-- [css 기본 지식](https://whothatsme.tistory.com/26)
+- [CSS 기본 지식](https://whothatsme.tistory.com/26)
+- [REST API가 뭐야? (feat. GET, POST, PUT, DELETE)](https://whothatsme.tistory.com/27)
