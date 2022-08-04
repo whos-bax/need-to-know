@@ -26,4 +26,4 @@
 
 - [CSS 기본 지식](https://whothatsme.tistory.com/26)
 - [REST API가 뭐야? (feat. GET, POST, PUT, DELETE)](https://whothatsme.tistory.com/27)
-- 
+- [프로그래밍 언어가 뭐야?](https://whothatsme.tistory.com/28)
