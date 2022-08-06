@@ -28,3 +28,4 @@
 - [REST API가 뭐야? (feat. GET, POST, PUT, DELETE)](https://whothatsme.tistory.com/27)
 - [프로그래밍 언어가 뭐야?](https://whothatsme.tistory.com/28)
 - [JavaScript가 뭐야? (feat. 프로토타입, 싱글 스레드, 비동기적 코딩)](https://whothatsme.tistory.com/29)
+- [절차 지향 프로그래밍 & 객체 지향 프로그래밍이 뭐야?](https://whothatsme.tistory.com/30)
