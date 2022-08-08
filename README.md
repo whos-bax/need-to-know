@@ -31,4 +31,4 @@
 - [절차 지향 프로그래밍 & 객체 지향 프로그래밍이 뭐야?](https://whothatsme.tistory.com/30)
 - [브라우저 저장소가 뭐야? (feat. 쿠키, 세션, jwt)](https://whothatsme.tistory.com/31)
 - [null, undefined, undeclaered, NaN 이 뭐야?](https://whothatsme.tistory.com/32)
-- [this가 뭐야?](https://whothatsme.tistory.com/33)
+- [this가 뭐야?](https://whothatsme.tistory.com/33) 
