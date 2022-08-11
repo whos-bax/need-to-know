@@ -13,7 +13,7 @@
 - [Git - Github, Gitlab (1)](https://whothatsme.tistory.com/6?category=940508)
 - [Git - Github, Gitlab (2)](https://whothatsme.tistory.com/7?category=940508)
 - [Git - Github, Gitlab (3)](https://whothatsme.tistory.com/9?category=940508)
-- [Git - Mac에서 Git 사용하기](https://whothatsme.tistory.com/11?category=940508)
+- [Git - Mac에서 Git 사용하기](https://whothatsme.tistory.com/11?category=940508) 
 - [Git pull 에러](https://whothatsme.tistory.com/17?category=940508)
 - [Git pull - Fatal: Not possible to fast-forward, aborting](https://whothatsme.tistory.com/18?category=940508)
 
