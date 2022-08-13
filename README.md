@@ -7,7 +7,7 @@
 > **개념은 잡혀있을까? 누군가 물어본다면 이건 이거야 라고 대답할 수 있을까?**
 > 
 > 하는 원초적인 질문에서 시작된 개념 정리입니다.
-
+ 
 
 ## 목차
 - [Git - Github, Gitlab (1)](https://whothatsme.tistory.com/6?category=940508)
