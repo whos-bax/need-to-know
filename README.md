@@ -33,4 +33,3 @@
 - [null, undefined, undeclaered, NaN 이 뭐야?](https://whothatsme.tistory.com/32)
 - [this가 뭐야?](https://whothatsme.tistory.com/33) 
 -  
--
